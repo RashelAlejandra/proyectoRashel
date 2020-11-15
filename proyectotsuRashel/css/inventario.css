@@ -1,0 +1,26 @@
+tr{
+	border: solid 1px;
+	border-color: ;
+}
+
+td{
+	border: solid 1px;
+	width: 500px;
+
+}
+
+table{
+
+	background-color: lightyellow;
+	margin-top: 2%;
+}
+
+.titulo{
+
+	background-color: #FF5733;
+}
+
+.busqueda{
+
+	margin-top: 2%;
+}
