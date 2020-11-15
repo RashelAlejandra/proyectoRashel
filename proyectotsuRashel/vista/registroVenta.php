@@ -47,7 +47,11 @@
 	<span id="scantidad"></span>
 
 	
-
+<select class="form-control" id="pago" name="pago">
+    <option value="" selected="selected"> Modo de Pago</option>
+    <option value="efectivo">Efectivo</option>
+    <option value="transferencia">Transferencia</option>
+                                    </select>
 
 	
 </form>
